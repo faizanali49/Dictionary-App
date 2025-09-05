@@ -17,21 +17,15 @@
 This project demonstrates advanced Flutter development practices including **state management with Riverpod**, **navigation with GoRouter**, and **modular architecture** for scalable code organization.
 
 ---
-<img src="https://github.com/user-attachments/assets/869dcf51-0e0c-4d90-8c59-455cdf559751" alt="Sign In Screen" width="300">
-
-<img src="https://github.com/user-attachments/assets/990506e4-989c-45c1-9377-eee4d7884397" alt="Sign Up Screen" width="300">
-
-
 
 ## ✨ Key Features
-<img src="https://github.com/user-attachments/assets/3f7f36e9-eed6-4862-b9b1-30f7a33b0c04" alt="Dictionary App Home Screen" width="300">
+
 ### 🔎 Search Functionality
 - Real-time search input with clear visual feedback
 - Clean, minimal search bar integrated into the header
 - Supports full-text word lookup with immediate results display
 
 ### 📌 Bookmark System
-<img src="https://github.com/user-attachments/assets/71ce95e8-b737-4154-8186-df2721c4f5c1" alt="Home Page" width="300">
 - Save favorite words or definitions for quick access
 - Persistent storage of bookmarks per user
 - Visual bookmark icon indicator in search results
@@ -70,19 +64,20 @@ This project demonstrates advanced Flutter development practices including **sta
 ## 🖼️ App Screenshots
 
 ### 🔐 Sign In Screen
-![](https://i.imgur.com/signin_screen.png)  
+<img src="https://github.com/user-attachments/assets/869dcf51-0e0c-4d90-8c59-455cdf559751" alt="Sign In Screen" width="300">
 *Secure login interface with email/password authentication*
 
 ### 📝 Sign Up Screen
-![](https://i.imgur.com/signup_screen.png)  
+<img src="https://github.com/user-attachments/assets/990506e4-989c-45c1-9377-eee4d7884397" alt="Sign Up Screen" width="300">
 *User registration with password confirmation*
 
 ### 🔍 Home Page
-![](https://i.imgur.com/homepage_screen.png)  
+<img src="https://github.com/user-attachments/assets/3f7f36e9-eed6-4862-b9b1-30f7a33b0c04" alt="Dictionary App Home Screen" width="300">
+
 *Main search interface with definition preview and bookmark options*
 
 ### 📚 Bookmarks Page
-![](https://i.imgur.com/bookmarks_screen.png)  
+<img src="https://github.com/user-attachments/assets/71ce95e8-b737-4154-8186-df2721c4f5c1" alt="Home Page" width="300">
 *Personalized list of saved words with custom icons and metadata*
 
 ---
@@ -139,7 +134,6 @@ flutter build apk --release
 ```
 
 ---
-![Screenshot_2025-08-03-03-06-49-089_com example dictionaryapp](https://github.com/user-attachments/assets/1d72ce3a-cd4d-4c1d-ad62-1cc2000bf2f2)
 ## This project is created by:
 ** Faizan Ali
 ``` faizanali49
