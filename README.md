@@ -17,9 +17,9 @@
 This project demonstrates advanced Flutter development practices including **state management with Riverpod**, **navigation with GoRouter**, and **modular architecture** for scalable code organization.
 
 ---
-![Screenshot_2025-08-03-02-35-28-379_com example dictionaryapp](https://github.com/user-attachments/assets/869dcf51-0e0c-4d90-8c59-455cdf559751)
+<img src="https://github.com/user-attachments/assets/869dcf51-0e0c-4d90-8c59-455cdf559751" alt="Sign In Screen" width="300">
 
-![Screenshot_2025-08-03-02-35-32-067_com example dictionaryapp](https://github.com/user-attachments/assets/990506e4-989c-45c1-9377-eee4d7884397)
+<img src="https://github.com/user-attachments/assets/990506e4-989c-45c1-9377-eee4d7884397" alt="Sign Up Screen" width="300">
 
 
 
@@ -31,7 +31,7 @@ This project demonstrates advanced Flutter development practices including **sta
 - Supports full-text word lookup with immediate results display
 
 ### 📌 Bookmark System
-![Screenshot_2025-08-03-03-06-49-089_com example dictionaryapp](https://github.com/user-attachments/assets/71ce95e8-b737-4154-8186-df2721c4f5c1)
+<img src="https://github.com/user-attachments/assets/71ce95e8-b737-4154-8186-df2721c4f5c1" alt="Home Page" width="300">
 - Save favorite words or definitions for quick access
 - Persistent storage of bookmarks per user
 - Visual bookmark icon indicator in search results
