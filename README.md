@@ -1,4 +1,3 @@
-![Screenshot_2025-08-03-02-35-28-379_com example dictionaryapp](https://github.com/user-attachments/assets/826d8ab2-916c-4564-a340-d6e2506990f3)
 
 # 📚 Dictionary App - Flutter Mobile Application
 
@@ -25,8 +24,7 @@ This project demonstrates advanced Flutter development practices including **sta
 
 
 ## ✨ Key Features
-![Screenshot_2025-08-03-03-06-43-622_com example dictionaryapp](https://github.com/user-attachments/assets/3f7f36e9-eed6-4862-b9b1-30f7a33b0c04)
-
+<img src="https://github.com/user-attachments/assets/3f7f36e9-eed6-4862-b9b1-30f7a33b0c04" alt="Dictionary App Home Screen" width="300">
 ### 🔎 Search Functionality
 - Real-time search input with clear visual feedback
 - Clean, minimal search bar integrated into the header
